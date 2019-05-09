@@ -1,3 +1,7 @@
+0.0.2-alpha.0 - May, 09 2019
+
+* c0591bf 0.0.1 (aichbauer)
+
 0.0.1 - May, 09 2019
 
 * bacac92 Chore: change name (aichbauer)
