@@ -1,6 +1,6 @@
 {
   "name": "tttttttttttttttttttt",
-  "version": "0.0.2-rc.0",
+  "version": "0.0.2",
   "description": "This package does nothing, it is just a package where I can test npm specific things, if you need this package name just contact me",
   "main": "index.js",
   "scripts": {

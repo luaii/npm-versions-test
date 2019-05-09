@@ -1,3 +1,7 @@
+0.0.2 - May, 09 2019
+
+* 24c4034 0.0.2-rc.0 (aichbauer)
+
 0.0.2-rc.0 - May, 09 2019
 
 * eb8b94f 0.0.2-beta.0 (aichbauer)
