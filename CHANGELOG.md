@@ -1,3 +1,7 @@
+0.0.2-beta.0 - May, 09 2019
+
+* 3707df4 0.0.2-alpha.1 (aichbauer)
+
 0.0.2-alpha.1 - May, 09 2019
 
 * f5040c9 0.0.2-alpha.0 (aichbauer)
